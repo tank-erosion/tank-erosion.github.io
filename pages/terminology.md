@@ -16,7 +16,7 @@ layout: default
 
 A **signatory** is a person with the power to sign a Bitcoin transaction in a multisig setup.
 
-A **signing key** is derived from a seed phrase or seed phrase with a passphrase and is used to sign a Bitcoin transaction. It can be included in the wallet file as a software key, or a hardware device.
+A **signing key** is derived from a seed phrase and is used to sign a Bitcoin transaction. It can be included in the wallet file as a software key, or a hardware device.
 
 A **wallet** for our purposes is a software file that contains all of the information needed to generate Bitcoin addresses, set up transactions for signing, and check balances. A <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/giacomozucco/status/1429394680123428864?s=20">better term</a> for it is probably "keychain" or "portal" as it has more of a function of *accessing* than *possessing* funds. Bitcoin the token exists within the network ledger on the blockchain (or timechain), not in a wallet file or hardware device. When <a target="_blank" rel="noopener noreferrer" href="https://www.investopedia.com/terms/c/cold-storage.asp">normies</a> say things like "Cold storage is a way of holding cryptocurrency tokens offline," it is more accurate to say that *ACCESS TO MOVING* tokens are stored offline.
 
